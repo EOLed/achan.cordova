@@ -1,3 +1,3 @@
-angular.module('achan.cordova.navigator', []).factory('$navigator', function () {
+angular.module('achan.cordova', []).factory('$navigator', function () {
   return navigator;
 });
